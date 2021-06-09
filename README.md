@@ -14,6 +14,8 @@
 - Visual Studio Code
 - Postman (testAPI)
 
+## UI AND ARCHITECTURE
+### ![BTL](https://user-images.githubusercontent.com/55725396/121274118-ff412680-c8f3-11eb-93a5-5d40f73b5a5a.png)
 
 ## Triển khai
 ### Bước 1: Tạo dự án trên vscode
