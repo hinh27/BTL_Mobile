@@ -14,9 +14,10 @@
 - Visual Studio Code
 - Postman (testAPI)
 
-## UI AND ARCHITECTURE
+## Ui and architecture
 ### ![BTL](https://user-images.githubusercontent.com/55725396/121274118-ff412680-c8f3-11eb-93a5-5d40f73b5a5a.png)
-
+## Data models
+### ![datamodel](https://user-images.githubusercontent.com/55725396/121277738-70380c80-c8fb-11eb-9c87-3fb215820476.png)
 ## Triển khai
 ### Bước 1: Tạo dự án trên vscode
 ### Bước 2: Nhận Khóa API Pexels (MIỄN PHÍ) truy cập http://pexels.com/api và đăng ký, sau đó nhấp vào yêu cầu quyền truy cập và bạn sẽ nhận được Khóa API của mình
